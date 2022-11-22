@@ -17,5 +17,5 @@ that this career could provide me.
 
 ## Stack utilizada
 
-**Back-end:** C
+**Back-end:** Dev C++ | C
 
