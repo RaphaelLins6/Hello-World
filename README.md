@@ -4,7 +4,7 @@
 
 👉 My first "Hello World" to start programming.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ✅ Meu primeiro contato com a programação então foi ótimo 
 ter essa experiência, pois foi quando vi o potêncial
@@ -14,8 +14,7 @@ que essa carreira poderia me fornecer.
 to have this experience, because that was when I saw the potential
 that this career could provide me.
 
-
-## Stack utilizada
+## Stack utilizada | Stack used
 
 **Back-end:** Dev C++ | C
 
