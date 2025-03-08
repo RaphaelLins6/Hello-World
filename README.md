@@ -16,5 +16,7 @@ that this career could provide me.
 
 ## Stack utilizada | Stack used
 
-**Back-end:** Dev C++ | C
+**Front-end:** VS Code
+
+**Back-end:** C
 
